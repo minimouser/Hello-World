@@ -10,5 +10,6 @@
 int main(void)
 {
 	printf("Hello World\n");
+	getchar();
 	return 0; // indicates success
 }
